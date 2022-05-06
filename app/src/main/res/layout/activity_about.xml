@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<de.dlyt.yanndroid.oneui.layout.AboutPage xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/about_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:optional_text="You can contact me using"
+    tools:context=".activity.AboutActivity">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/phone"
+        style="@style/ButtonStyle.AboutPage"
+        android:text="Phone Call" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/play_store"
+        style="@style/ButtonStyle.AboutPage"
+        android:text="Play Store" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/linked_in"
+        style="@style/ButtonStyle.AboutPage"
+        android:text="Linked IN" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/github"
+        style="@style/ButtonStyle.AboutPage"
+        android:text="GitHub" />
+
+
+
+</de.dlyt.yanndroid.oneui.layout.AboutPage>
