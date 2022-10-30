@@ -1,6 +1,6 @@
 # EzeTap
 
-#### ⚠️This app is an assignment EzeTap company and this is temp repository [Download App](https://github.com/BlackMesa123)
+#### ⚠️This app is an assignment EzeTap company and this is temp repository 
 
 
 
